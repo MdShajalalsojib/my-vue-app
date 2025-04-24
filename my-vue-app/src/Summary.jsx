@@ -21,3 +21,10 @@
 // }
 
 
+/***
+ * 1. just write a simple fetch with json conersion.
+ * 2.Wrap the data loading component under suspense
+ *
+ * 
+ * 
+*/
