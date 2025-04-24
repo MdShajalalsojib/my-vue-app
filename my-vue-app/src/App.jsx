@@ -1,4 +1,4 @@
- 
+import Counter from './Counter';
 import './App.css'
 
 function App() {
@@ -20,6 +20,8 @@ function App() {
     <>
       
       <h1>Md.Shajalal</h1>
+
+      <Counter></Counter>
 
       {/* javaScript
       <button onclick = "handleClick()">Click me</button> */}
