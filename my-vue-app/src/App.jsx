@@ -2,6 +2,7 @@
 import Counter from './Counter';
 import Batsman from './Batsman';
 import Bowler from './Bowler';
+import Users from './Users';
 import './App.css'
 
 function App() {
@@ -23,12 +24,13 @@ function App() {
     <>
       
       <h1>Md.Shajalal</h1>
-      
+
       <Bowler></Bowler>
 
       <Batsman></Batsman>
 
       <Counter></Counter>
+      <Users></Users>
       
 
       {/* javaScript
