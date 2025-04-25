@@ -45,6 +45,8 @@ function App() {
     <>
       
       <h1>Md.Shajalal</h1>
+      <Video2></Video2>
+
 
       <Bowler></Bowler>
 
